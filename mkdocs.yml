@@ -12,11 +12,14 @@ nav:
     - Getting an account: guides/signing-up.md
     - Starting RStudio Server: guides/rstudio.md
     - Installing your own R packages: guides/r-stats.md
-    - Starting a Jupyter Notebook: guides/jupyter.md
+    - Starting JupyterLab: guides/jupyter.md
     - Installing your own Python packages: guides/python.md
     - Using and installing command line software: guides/command-line.md
     - Viewing and uploading files on farm: guides/files.md
-#  - Reference Material:
+  - Reference Material and Tutorials:
+    - reference/index.md
+    - Generating and using an SSH key: reference/ssh-keys.md
+    - Creating a conda/mamba environment: reference/conda.md
 
 markdown_extensions:
   - toc:
