@@ -1,4 +1,5 @@
 # Starting RStudio Server
+<<<<<<< HEAD
 
 https://ondemand.farm.hpc.ucdavis.edu/
 
@@ -14,3 +15,5 @@ Setting:
 
 Refs:
 - using your own version of R by [creating a conda environment](../reference/conda.md) 
+=======
+>>>>>>> main
