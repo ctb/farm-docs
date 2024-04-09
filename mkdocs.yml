@@ -1,7 +1,7 @@
-site_name: Franklin Cluster Documentation
-site_url: http://docs.franklin.hpc.ucdavis.edu
-repo_url: https://github.com/ucdavis/HPCCF-franklin-docs
-copyright: Copyright &copy; 2023 The Regents of the University of California, Davis
+site_name: Farm HPC Documentation
+#site_url: http://docs.franklin.hpc.ucdavis.edu
+repo_url: https://github.com/ctb/farm-docs
+copyright: Copyright &copy; 2023-2024 The Regents of the University of California, Davis
 
 nav:
   - About: index.md
