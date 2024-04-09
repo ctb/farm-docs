@@ -13,7 +13,6 @@ simulations, geographic information system (GIS) software, and more.
 
 Farm is maintained by the [HPC Core Facility](https://hpc.ucdavis.edu/about).
 Software installation and support requests should be directed to [farm-hpc@ucdavis.edu](mailto:farm-hpc@ucdavis.edu).
-
 ![HPC unit signature](assets/HPC-unit-signature.png){ width="400" align="right" }
 
 ## Using This Documentation

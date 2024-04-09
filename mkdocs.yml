@@ -4,7 +4,19 @@ repo_url: https://github.com/ctb/farm-docs
 copyright: Copyright &copy; 2023-2024 The Regents of the University of California, Davis
 
 nav:
-  - About: index.md
+  - About:
+    - index.md
+    - What farm can be used for: use-cases.md
+  - User Guides:
+    - guides/index.md
+    - Getting an account: guides/signing-up.md
+    - Starting RStudio Server: guides/rstudio.md
+    - Installing your own R packages: guides/r-stats.md
+    - Starting a Jupyter Notebook: guides/jupyter.md
+    - Installing your own Python packages: guides/python.md
+    - Using and installing command line software: guides/command-line.md
+    - Viewing and uploading files on farm: guides/files.md
+#  - Reference Material:
 
 markdown_extensions:
   - toc:
@@ -43,9 +55,9 @@ extra:
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
-  - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+#  - javascripts/mathjax.js
 
 theme:
   name: material
