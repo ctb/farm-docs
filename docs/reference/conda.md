@@ -23,6 +23,7 @@ with RStudio Server, and Python and Python packages with JupyterLab.
 See below for details!
 
 References and tutorials:
+
 * [Installing software on remote computers with conda/mamba](https://hackmd.io/BffW5KHxTCKPyhUAo2tqHg?view) - from GGG 298/Tools for Data Intensive Research, WQ 2023/2024.
 
 ## Creating a conda environment for RStudio Server
